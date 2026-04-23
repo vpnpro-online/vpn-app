@@ -4,5 +4,15 @@
     <title>VPN Pro</title>
     <link>https://github.com/vpnpro-online/vpn-app</link>
     <description>VPN Pro release feed.</description>
+     <item>
+      <title>VPN Pro 4.1.3</title>
+      <sparkle:version>4.1.3</sparkle:version>
+      <description><![CDATA[Test release to verify auto-update mechanism.]]></description>
+      <pubDate>Thu, 23 Apr 2026 20:00:00 +0000</pubDate>
+      <enclosure
+        url="https://github.com/vpnpro-online/vpn-app/releases/download/v4.1.3/VPNPro-windows-x64.zip"
+        sparkle:version="4.1.3"
+        type="application/octet-stream" />
+    </item>
     </channel>
 </rss>
